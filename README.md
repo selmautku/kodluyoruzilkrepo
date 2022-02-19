@@ -24,3 +24,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 
 [MIT](https://opensource.org/licenses/MIT)
+
+![ProjeResmi](https://patika-prod.s3.eu-central-1.amazonaws.com/staticFiles/patikaLogo.png)
